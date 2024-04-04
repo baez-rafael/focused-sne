@@ -18,7 +18,7 @@ Check out - [src/Run_fSNE_SNE.ipynb](https://github.com/baez-rafael/focused-sne/
 
 
 # Visualizations
-Here are some example visualizations showcasing fSNE in action - <br/>
+Scatterplots showcasing the 50 nearest neighbors of a given point of interest in the visualization space for 20News, mnist, and Wine datasets. The original neighborhood points are marked with an ‘x’ - <br/>
 ![vis1](/visualizations/original_fsne_sne_20News.png)
 ![vis1](/visualizations/original_fsne_sne_mnist.png)
 ![vis1](/visualizations/original_fsne_sne_Wine.png)
