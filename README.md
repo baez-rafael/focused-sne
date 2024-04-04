@@ -15,6 +15,7 @@ Tested on:-
 
 # Running fSNE
 Check out - src/Run_fSNE_SNE.ipynb to see an example of how to run fSNE_torch
+[fsne](https://github.com/baez-rafael/focused-sne/blob/main/src/Run_fSNE_SNE.ipynb)
 
 # Visualizations
 Here are some example visualizations showcasing fSNE in action - <br/>
