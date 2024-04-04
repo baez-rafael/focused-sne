@@ -16,7 +16,9 @@ Tested on :-
 
 # Visualizations
 Here are some example visualizations showcasing fSNE in action - <br/>
-
+![vis1](/visualizations/original_fsne_sne_20News.png)
+![vis1](/visualizations/original_fsne_sne_mnist.png)
+![vis1](/visualizations/original_fsne_sne_Wine.png)
 
 # Citation 
 ```
